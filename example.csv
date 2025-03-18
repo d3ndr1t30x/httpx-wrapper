@@ -1,0 +1,7 @@
+id,name,website,status
+1,Example Inc,https://example.com,
+2,Test Company,https://testcompany.com,
+3,Fake Corp,https://fakecorp.com,
+4,Dead Domain,https://nonexistentdomain123.com,
+5,Google,https://google.com,
+6,Empty Website,,active
